@@ -52,7 +52,7 @@ int main()
     
   }
     
- //printf("%d ",min);
+ printf("%d ",min);
   
    if(min>=k)
      
